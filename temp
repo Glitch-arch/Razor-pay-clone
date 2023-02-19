@@ -1,0 +1,65 @@
+<section class="relative bg-deepBlue">
+
+        <div class="w-10/12 flex flex-row justify-between items-center mx-auto">
+            
+            <div class="space-y-8" >
+
+                <h1 class="font-mullish font-bold leading-1.2 text-white ">Heading</h1>
+                <div class="w-6 h-1 bg-greenLight" ></div>
+                <p class="font-mullish text-[18px] text-white opacity-70 leading-7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores voluptates, obcaecati unde nihil adipisci laboriosam assumenda fuga ullam voluptatum aut.</p>
+                <button class="text-white hover:cursor-pointer bg-lightBlue rounded-md font-mullish font-bold hover:bg-lightBlue500 py-[8px] px-[10px] transition-all duration-200">Sign up</button>
+
+            </div>
+
+            <div>
+
+                <img class="text-white w-full max-w-[680px] " src="" alt="images">
+
+            </div>
+
+        </div>
+        
+        <div>
+            <img class="text-white" src="" alt="image2">
+        </div>
+        
+    </section>
+
+    <section>
+
+        <img src="" alt="section 2 img" loading="lazy" width="233" height="167">
+        <img src="" alt="section 2 img 2" loading="lazy" width="233" height="167">
+        
+        <div>
+            <h2>Lorem ipsum dolor sit amet consectetur</h2>
+            <div></div>
+
+            <div>
+                <div class="left">
+                  <div>
+                    <h3 >Lorem ipsum dolor sit amet consectetur.</h3>
+                   <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                   </ul>
+                </div>
+
+                   <div>
+                    <button></button>
+                    <a href=""></a>
+                   </div>
+
+                </div>
+            
+                <div class="right">
+                    <img src="" alt="">
+                </div>
+            </div>
+
+        </div>
+
+    </section>
