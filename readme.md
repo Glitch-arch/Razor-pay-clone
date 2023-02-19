@@ -1,6 +1,5 @@
-**Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
-**Step 2:** To run:
+**Step 1:** To run:
 
 ```bash
 npm install
